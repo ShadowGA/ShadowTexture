@@ -1,0 +1,41 @@
+{
+    "parent": "block/door",
+    "textures": {
+        "bottom": "blocks/door_jungle_lower",
+        "top": "blocks/door_jungle_upper"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -95, 10, 10 ],
+            "translation": [ 0, 1, -2 ],
+            "scale": [ 0.55, 0.55, 0.55 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 2, 4, 2 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -95, 190, -10 ],
+            "translation": [ 0, 1, -2 ],
+            "scale": [ 0.55, 0.55, 0.55 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 2, 4, 2 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "gui": {
+            "rotation": [ 30, 135, 0 ],
+            "translation": [ -2, 4, 0],
+            "scale": [ 0.43, 0.43, 0.43 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 3.5, 8, 0 ],
+            "scale": [ 0.45, 0.45, 0.45 ]
+        }
+    }
+}
+
+

@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "The default resource pack for our Shadow.GA server."
+    "pack_format": 3,
+    "description": "Default resource pack for Shadow.GA."
   }
 }
